@@ -1,3 +1,5 @@
 hello
 goodbye
 hello Tomo!
+hello. this is a test, not a trap.
+
